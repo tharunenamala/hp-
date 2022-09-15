@@ -1,5 +1,5 @@
-fffffiwhite
-yelloffff
-orangef
+white
+yellow
+orange
 red
 
