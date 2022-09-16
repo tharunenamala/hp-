@@ -1,8 +1,7 @@
-ffwhite
-yellof
-orangef
 
-hihnkjbwhite
+white
+yellow
+orange
 yello
 orange 
 red
